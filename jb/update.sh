@@ -7,13 +7,14 @@ rm -rf 402_unc0ver.ipa
 rm -rf 401_unc0ver.ipa
 rm -rf 400_unc0ver.ipa
 rm -rf 380-b2_unc0ver.ipa
-rm -rf 380-bb1_unc0ver.ipa
+rm -rf 380-b1_unc0ver.ipa
 rm -rf 363_unc0ver.ipa
 rm -rf 362_unc0ver.ipa
 rm -rf 361_unc0ver.ipa
 rm -rf 356_unc0ver.ipa
 rm -rf 352_unc0ver.ipa
 rm -rf 342_unc0ver.ipa
+rm -rf 351_unc0ver.ipa
 rm -rf 338_unc0ver.ipa
 rm -rf 310_unc0ver.ipa
 rm -rf 103_Chimera.ipa
@@ -99,4 +100,5 @@ wget http://ipawj.nuosike.cn/ipa/YYlIl-lIl/32_h3lix.ipa
 wget http://ipawj.nuosike.cn/ipa/YYlIl-lIl/11.0-11.41_Electra.ipa
 wget http://ipawj.nuosike.cn/ipa/YYlIl-lIl/doubleH3lix_doubleH3lix.ipa
 wget http://ipawj.nuosike.cn/ipa/YYlIl-lIl/3.0_Th0r.ipa
+wget http://ipawj.nuosike.cn/ipa/YYlIl-lIl/007_Meridian.ipa
 echo "批量下载成功！"
